@@ -24,7 +24,9 @@ body{
     width: 80%;
     margin: auto;
 }
-.container .text
+.container .text {
+    width: 100%;
+}
 
 .header .container{
     justify-content: space-between;
@@ -129,6 +131,10 @@ h4 {
 }
 .banner .container p{
     color: white;
+    width: 80%;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 
 .box p{ 
